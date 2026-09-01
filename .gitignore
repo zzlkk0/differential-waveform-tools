@@ -1,0 +1,15 @@
+# Raw captures and generated analysis artifacts are intentionally not published.
+*.wav
+*.csv
+*.png
+*.pdf
+
+# Local notes may contain experiment-specific information.
+*.txt
+!README.txt
+
+# Python/editor caches.
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
